@@ -1,0 +1,1 @@
+{"New_Model_1":{"properties":{"username":{"$ref":"#/definitions/string"},"email":{"$ref":"#/definitions/string"}},"type":"object"},"definitions":{}}
